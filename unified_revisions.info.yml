@@ -1,0 +1,6 @@
+name: 'Unified Revisions'
+type: module
+description: 'Adds a view with the complete revision history of a node and corresponding media.'
+core_version_requirement: ^9
+dependencies:
+  - drupal:views_field_view
